@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "6664b8a6ed35c7f837bbed6a"
+  },
+  "username": "abc",
+  "email": "abc@gmail.com",
+  "password": "$2a$10$VUugup.Z7vjjN3L6biJApOtu6P4SjrRj4VaXql0SfK/6ogakFsTDe",
+  "profilePicture": "https://img.freepik.com/premium-vector/man-avatar-profile-picture-vector-illustration_268834-538.jpg",
+  "role": "user",
+  "createdAt": {
+    "$date": "2024-06-08T20:01:42.065Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-08T20:01:42.065Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6664b97d81c0d641b8d34986"
+  },
+  "username": "adminusernamesfaf2",
+  "email": "admin@example.com",
+  "password": "$2a$10$VUugup.Z7vjjN3L6biJApOtu6P4SjrRj4VaXql0SfK/6ogakFsTDe",
+  "profilePicture": "https://img.freepik.com/premium-vector/man-avatar-profile-picture-vector-illustration_268834-538.jpg",
+  "role": "admin",
+  "updatedAt": {
+    "$date": "2024-06-15T22:50:00.407Z"
+  }
+},{
+  "_id": {
+    "$oid": "6664bb236e5a1104a5185dec"
+  },
+  "username": "bhaveshmankarx61qhc4b",
+  "email": "bmmankar25@gmail.com",
+  "password": "$2a$10$fMZntArC3DPSse2OLXWYsO6r7VBD0nQPts8WNv82P.stGB8Rpvb/y",
+  "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJ5ndczNBXekZxxTFyWjFfrcTGRDXTKJaVJ1WEGI5Ea8EqqkcDh=s96-c",
+  "role": "user",
+  "createdAt": {
+    "$date": "2024-06-08T20:12:19.082Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-08T20:12:19.082Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6668842b2051e051d3449d60"
+  },
+  "username": "logic.exequvxtxfe",
+  "email": "logic.exe03@gmail.com",
+  "password": "$2a$10$NreUQScL.sNT.ONqmYiW6e63z.agvo44zwq5YbZz.Ow1hHfSeTcNi",
+  "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJCmJFXbeyOUicBmx2AbEuAtpLPtRMjiN7oLNWPQtBcTsIE4w=s96-c",
+  "role": "user",
+  "createdAt": {
+    "$date": "2024-06-11T17:06:51.365Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-11T17:06:51.365Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "666bdd0a50ed0b59560bba1b"
+  },
+  "username": "superadmin",
+  "email": "superadmin@example.com",
+  "password": "$2a$10$VUugup.Z7vjjN3L6biJApOtu6P4SjrRj4VaXql0SfK/6ogakFsTDe",
+  "profilePicture": "https://img.freepik.com/premium-vector/man-avatar-profile-picture-vector-illustration_268834-538.jpg",
+  "role": "superadmin",
+  "updatedAt": "2024-06-08T20:11:54.176+00:00"
+}]

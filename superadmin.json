@@ -1,0 +1,8 @@
+{
+  "username": "superadmin",
+  "email": "superadmin@example.com",
+  "password": "$2a$10$VUugup.Z7vjjN3L6biJApOtu6P4SjrRj4VaXql0SfK/6ogakFsTDe",
+  "profilePicture": "https://img.freepik.com/premium-vector/man-avatar-profile-picture-vector-illustration_268834-538.jpg",
+  "role": "superadmin",
+  "updatedAt": "2024-06-08T20:11:54.176+00:00"
+}

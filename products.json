@@ -1,0 +1,102 @@
+[
+  {
+    "sku_id": "SKU-12345",
+    "name": "Terracotta Elephant Figurine",
+    "colour": "Brown",
+    "shape": "Other",
+    "category": "Terracotta Ornaments & Home Décor",
+    "quantity": 15,
+    "approved": true,
+    "image_url": "https://images.unsplash.com/photo-1531761557059-2b2da2acab03?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHRlcnJhY290YXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "sku_id": "SKU-67890",
+    "name": "Macrame Wall Hanging",
+    "colour": "Beige",
+    "shape": "Rectangle",
+    "category": "Macrame Based Handicraft",
+    "quantity": 8,
+    "approved": true,
+    "image_url": "https://images.unsplash.com/photo-1531761557059-2b2da2acab03?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHRlcnJhY290YXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "sku_id": "SKU-11122",
+    "name": "Moonj Basket",
+    "colour": "Natural",
+    "shape": "Circle",
+    "category": "Moonj Based Handicrafts",
+    "quantity": 5,
+    "approved": true,
+    "image_url": "https://images.unsplash.com/photo-1531761557059-2b2da2acab03?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHRlcnJhY290YXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "sku_id": "SKU-33445",
+    "name": "Wooden Birdhouse",
+    "colour": "Brown",
+    "shape": "Other",
+    "category": "Outdoor",
+    "quantity": 12,
+    "approved": true,
+    "image_url": "https://images.unsplash.com/photo-1531761557059-2b2da2acab03?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHRlcnJhY290YXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "sku_id": "SKU-66778",
+    "name": "Banana Fiber Bowl",
+    "colour": "Natural",
+    "shape": "Circle",
+    "category": "Banana Fiber based ornaments & Home Décor",
+    "quantity": 10,
+    "approved": true,
+    "image_url": "https://images.unsplash.com/photo-1531761557059-2b2da2acab03?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHRlcnJhY290YXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "sku_id": "SKU-99001",
+    "name": "Jute Tote Bag",
+    "colour": "Brown",
+    "shape": "Rectangle",
+    "category": "Jute Bags & Allied Products",
+    "quantity": 20,
+    "approved": true,
+    "image_url": "https://images.unsplash.com/photo-1531761557059-2b2da2acab03?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHRlcnJhY290YXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "sku_id": "SKU-22334",
+    "name": "Hand Painted Wooden Tray",
+    "colour": "Multicolored",
+    "shape": "Rectangle",
+    "category": "Other",
+    "quantity": 7,
+    "approved": true,
+    "image_url": "https://images.unsplash.com/photo-1531761557059-2b2da2acab03?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHRlcnJhY290YXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "sku_id": "SKU-55667",
+    "name": "Ceramic Teapot",
+    "colour": "White",
+    "shape": "Other",
+    "category": "Terracotta Ornaments & Home Décor",
+    "quantity": 18,
+    "approved": true,
+    "image_url": "https://images.unsplash.com/photo-1531761557059-2b2da2acab03?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHRlcnJhY290YXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "sku_id": "SKU-88990",
+    "name": "Woven Wall Tapestry",
+    "colour": "Blue",
+    "shape": "Rectangle",
+    "category": "Macrame Based Handicraft",
+    "quantity": 6,
+    "approved": true,
+    "image_url": "https://images.unsplash.com/photo-1531761557059-2b2da2acab03?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHRlcnJhY290YXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "sku_id": "SKU-10112",
+    "name": "Moonj Storage Box",
+    "colour": "Natural",
+    "shape": "Square",
+    "category": "Moonj Based Handicrafts",
+    "quantity": 9,
+    "approved": true,
+    "image_url": "https://images.unsplash.com/photo-1531761557059-2b2da2acab03?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHRlcnJhY290YXxlbnwwfHwwfHx8MA%3D%3D"
+  }
+]
